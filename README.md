@@ -1,6 +1,6 @@
-## Hii 💖 Gizlly here ☺👋
+## Hi everyone, Gizlly here 💖 
 
-🔭 I’m currently working as Frontend Develop <br>
+🔭 I’m currently working as Frontend Developer <br>
 🌱 I’m currently learning about UX Design
 
 <div>
