@@ -21,8 +21,8 @@ Hoje trabalho na [PlayKids](https://playkids.com) como Frontend, sou responsáve
 ### ☆ Minhas estatísticas do Github ☆ 
 <div>
   <a href="https://github.com/gizellysteffanny">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gizellysteffanny&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gizellysteffanny&layout=compact&langs_count=7&theme=radical" />
+    <img height="50%" src="https://github-readme-stats.vercel.app/api?username=gizellysteffanny&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues" />
+    <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gizellysteffanny&layout=compact&langs_count=7&theme=radical" />
   </a>
 </div>
 
