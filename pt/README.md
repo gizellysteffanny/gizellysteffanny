@@ -2,7 +2,7 @@
 
 
 <h6 align="right">
-  <a href="https://github.com/gizellysteffanny/gizellysteffanny/blob/main/pt/README.md"> 🇺🇸 English</a>
+  <a href="https://github.com/gizellysteffanny/gizellysteffanny/blob/main/README.md"> 🇺🇸 English</a>
 </h6>
 
 ### ☆ Um pouco sobre mim ☆ 
