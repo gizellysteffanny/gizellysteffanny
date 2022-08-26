@@ -16,7 +16,7 @@ I also love creating digital drawings in Procreate 💜✍🏻 and vector illust
 I'm in the last year of ADS college 👩🏻‍🎓
 
 ### ☆ About my current job ☆ 
-Today I work at [PlayKids](https://playkids.com) as a Frontend, I'm responsible for the maintenance and implementation of new features <br>of web applications of the PK product, in addition to creating new internal projects and making integrations with<br> back-end integrations and Growth tools. 💼
+Today I work at [Riachuelo](https://www.riachuelo.com.br) as a Frontend, I'm responsible for the maintenance and implementation of new features <br>of web applications of the internal products, in addition to creating new internal projects and making integrations with<br> back-end integrations. 💼
 
 
 ### ☆ My Github stats ☆ 
