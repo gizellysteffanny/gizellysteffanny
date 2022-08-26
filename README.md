@@ -9,7 +9,7 @@
 I'm Brazilian from Pernambuco ❤️🌵, but I currently live in Amazonas. 🌳🐬 <br>
 Frontend developer for over 5 years, I use technologies like Angular and React with TypeScript. ⚡️👩🏻‍💻 <br>
 
-I've been studying Design for a while and I'm just in love, I'm having the opportunity to work as a Designer in my work,<br> 
+I've been studying Design for a while and I'm just in love, I had the opportunity to work as a Designer in previous works,<br> 
 in addition to creating personal projects that I make available on [Dribbble](https://dribbble.com/gizlly) and [Behance](https://www.behance.net/gizlly). 💖 <br>
 
 I also love creating digital drawings in Procreate 💜✍🏻 and vector illustrations in Illustrator 🧡🖋 <br>
