@@ -7,15 +7,15 @@
 
 ### ☆ Um pouco sobre mim ☆ 
 Eu sou brasileira nascida e criada em Pernambuco ❤️🌵, mas atualmente moro no Amazonas. 🌳🐬 <br>
-Desenvolvedora Frontend há mais 5 anos, utilizo tecnologias como Angular e React com TypeScript. ⚡️👩🏻‍💻 <br>
+Desenvolvedora Frontend há mais de 5 anos, utilizo tecnologias como Angular e React com TypeScript. ⚡️👩🏻‍💻 <br>
 
-Estudo Design há um tempo e simplesmente sou apaixonada, estou tendo a oportunidade de atuar como Designer no meu trabalho, <br> além de criar projetos pessoais que disponibilizo no [Dribbble](https://dribbble.com/gizlly) e [Behance](https://www.behance.net/gizlly). 💖 <br>
+Estudo Design há um tempo e simplesmente sou apaixonada, tive a oportunidade de atuar como Designer em trabalhos anteriores, <br> além de criar projetos pessoais que disponibilizo no [Dribbble](https://dribbble.com/gizlly) e [Behance](https://www.behance.net/gizlly). 💖 <br>
 
 Também adoro criar desenhos digitais no Procreate 💜✍🏻 e ilustrações vetoriais no Illustrator 🧡🖋<br>
 Estou no ultimo ano da faculdade de ADS 👩🏻‍🎓 
 
 ### ☆ Sobre meu trabalho atual ☆ 
-Hoje trabalho na [PlayKids](https://playkids.com) como Frontend, sou responsável pela manutenção e implementação de novas features de aplicações web <br>do produto PK, além de criar novos projetos internos e fazer integrações com integrações com back-end e ferramentas de Growth. 💼
+Hoje trabalho na [Riachuelo](https://www.riachuelo.com.br) como Frontend, sou responsável pela manutenção e implementação de novas features de aplicações web <br>, além de criar novos projetos internos e fazer integrações com integrações com back-end. 💼
 
 
 ### ☆ Minhas estatísticas do Github ☆ 
