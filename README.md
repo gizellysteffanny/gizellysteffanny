@@ -7,7 +7,7 @@
 
 ### ☆ A little about myself ☆ 
 I'm Brazilian from Pernambuco ❤️🌵, but I currently live in Amazonas. 🌳🐬 <br>
-Frontend developer for over 5 years, I use technologies like Angular and React with TypeScript. ⚡️👩🏻‍💻 <br>
+Frontend developer for over 6 years, I use technologies like Angular and React with TypeScript. ⚡️👩🏻‍💻 <br>
 
 I've been studying Design for a while and I'm just in love, I had the opportunity to work as a Designer in previous works,<br> 
 in addition to creating personal projects that I make available on [Dribbble](https://dribbble.com/gizlly) and [Behance](https://www.behance.net/gizlly). 💖 <br>
@@ -32,7 +32,7 @@ Today I work at [Riachuelo](https://www.riachuelo.com.br) as a Frontend, I'm res
 <a href="mailto:gizellysteffanny@gmail.com">
   <img height="32" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="https://www.instagram.com/uxgizlly">
+<a href="https://www.instagram.com/gibytes">
   <img height="32" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/gizellysteffanny/">
