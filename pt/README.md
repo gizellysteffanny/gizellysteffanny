@@ -7,7 +7,7 @@
 
 ### ☆ Um pouco sobre mim ☆ 
 Eu sou brasileira nascida e criada em Pernambuco ❤️🌵, mas atualmente moro no Amazonas. 🌳🐬 <br>
-Desenvolvedora Frontend há mais de 5 anos, utilizo tecnologias como Angular e React com TypeScript. ⚡️👩🏻‍💻 <br>
+Desenvolvedora Frontend há mais de 6 anos, utilizo tecnologias como Angular e React com TypeScript. ⚡️👩🏻‍💻 <br>
 
 Estudo Design há um tempo e simplesmente sou apaixonada, tive a oportunidade de atuar como Designer em trabalhos anteriores, <br> além de criar projetos pessoais que disponibilizo no [Dribbble](https://dribbble.com/gizlly) e [Behance](https://www.behance.net/gizlly). 💖 <br>
 
@@ -31,7 +31,7 @@ Hoje trabalho na [Riachuelo](https://www.riachuelo.com.br) como Frontend, sou re
 <a href="mailto:gizellysteffanny@gmail.com">
   <img height="32" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="https://www.instagram.com/uxgizlly">
+<a href="https://www.instagram.com/gibytes">
   <img height="32" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/gizellysteffanny/">
